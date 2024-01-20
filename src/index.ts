@@ -1,3 +1,1 @@
-const title = 'nested-key-of';
-
-console.log(title);
+export { NestedKeyOf } from './nested-key-of';
