@@ -1,0 +1,8 @@
+{
+  "name": "nested-key-of",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alex-yandolin/nested-key-of.git",
+  "author": "Alex Yandolin <alexyandolin@icloud.com>",
+  "license": "MIT"
+}
