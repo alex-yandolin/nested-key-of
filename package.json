@@ -1,13 +1,18 @@
 {
   "name": "nested-key-of",
-  "version": "1.0.0",
   "description": "Generic type definition of all keys of a nested object",
+  "version": "1.0.0",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "files": [
-    "lib"
+    "lib",
+    "LICENSE"
   ],
-  "repository": "https://github.com/alex-yandolin/nested-key-of.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex-yandolin/nested-key-of.git"
+  },
+  "homepage": "https://github.com/alex-yandolin/nested-key-of",
   "author": "Alex Yandolin <alexyandolin@icloud.com>",
   "license": "MIT",
   "scripts": {
